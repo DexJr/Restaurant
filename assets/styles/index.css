@@ -43,7 +43,7 @@ header nav {
   max-width: 1100px;
   margin: 0 auto;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 500px) {
   header nav {
     grid-template-columns: 50% 10% 40%;
   }
